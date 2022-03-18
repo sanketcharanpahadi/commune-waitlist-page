@@ -46,6 +46,6 @@ I want to continue using tailwind css for my projects.
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Twitter - [@SanketK86551440](https://www.twitter.com/ySanketK86551440)
+- Twitter - [@SanketK86551440](https://www.twitter.com/SanketK86551440)
 
 
