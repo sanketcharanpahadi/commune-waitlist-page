@@ -1,31 +1,51 @@
+# Codewell - Commune Waitlist Page
 
-# Welcome to Codewell! 👋
+This is a solution to the [Commune Waitlist Page on Codewell](https://www.codewell.cc/challenges/commune-waitlist-page--608d9565747bad001532bd64).Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects.
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+## Table of contents
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
-
-### I've completed the challenge, now what?
-
-We recommend using one of these two websites to deploy your projects
-
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
-
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
 
-### Submit your solution to Codewell
+## Overview
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
+### The challenge
 
-### Join our community on Slack
+Users should be able to:
 
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+- View the optimal layout for the app depending on their device's screen size
 
-### Fonts Used
+<!-- ### Screenshot
 
-https://fonts.google.com/specimen/Nunito+Sans
+![](./screenshot.jpg) -->
+
+
+### Links
+
+- Solution URL: [https://www.codewell.cc/challenges/commune-waitlist-page--608d9565747bad001532bd64/solution/623417181fa95910c7bf9778](https://www.codewell.cc/challenges/commune-waitlist-page--608d9565747bad001532bd64/solution/623417181fa95910c7bf9778)
+- Live Site URL: [https://sanketcharanpahadi.github.io/commune-waitlist-page/](https://sanketcharanpahadi.github.io/commune-waitlist-page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Mobile-first workflow
+- [Tailwind CSS](https://tailwindcss.com/) - CSS library
+
+### Continued development
+
+I want to continue using tailwind css for my projects.
+
+## Author
+
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+- Twitter - [@SanketK86551440](https://www.twitter.com/ySanketK86551440)
 
 
