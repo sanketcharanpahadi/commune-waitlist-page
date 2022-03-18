@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Commune Waitlist Page</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="build.css">
+  </head>
+  <body class="px-4 py-12 font-['Nunito_Sans'] bg-[#E3EFF9] sm:px-16 lg:px-28">
+    <header class="header mb-16 lg:mb-28">
+      <nav class="nav-bar flex items-center justify-between">
+        <img src="./Assets/Logo.svg" alt="logo" class="logo" />
+        <img
+          src="./Assets/Hamburger Menu.svg"
+          alt=""
+          class="hamburger lg:hidden"
+        />
+        <ul class="nav-items hidden lg:flex items-center gap-6">
+          <li class="nav-item"><a href="#">Features</a></li>
+          <li class="nav-item"><a href="#">Affiliates</a></li>
+          <li class="nav-item"><a href="#">Pricing</a></li>
+          <li class="nav-item"><a href="#">Communities</a></li>
+          <li class="nav-item bg-[#372865] text-white px-5 py-3 rounded-md"><a href="#">Join Waitlist</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="mb-8">
+      <section class="main lg:flex lg:items-center gap-11">
+        <div class="about">
+          <p
+            class="access text-center text-xl bg-[#372865] rounded-full text-[#c7bce2] px-1 py-2 mb-6 sm:text-lg sm:mb-4 lg:text-xl"
+          >
+            We are now allowing early-access for users.
+            <a href="#" class="underline">Learn more</a>
+          </p>
+          <h1
+            class="primary-heading text-center text-[40px] font-black text-[#353252] mb-6 sm:text-[48px] sm:font-bold sm:leading-tight sm:mb-0 lg:text-left lg:mb-2"
+          >
+            Build a highly engaged community with no effort.
+          </h1>
+          <p
+            class="feature text-center text-lg mb-4 text-[#828284] sm:text-base sm:mb-8 lg:text-left lg:mb-4"
+          >
+            Commune offers the tools you need to build a highly engaged
+            community with little to no effort. Simply setup your Commune
+            workspace, and manage everything from members to content from one
+            central dashboard.
+          </p>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Enter your e-mail address"
+            class="block m-auto w-[96%] px-4 py-4 rounded-md mb-4 border-[1px] border-gray-400 focus:outline-none sm:inline sm:w-3/5 sm:mr-2"
+          />
+          <button
+            class="block m-auto w-[96%] bg-[#372865] text-white text-lg px-4 py-4 rounded-md sm:inline sm:w-4/12 sm:text-base lg:w-3/12"
+          >
+            Join Waitlist
+          </button>
+        </div>
+
+        <img src="./Assets/Illustration.png" alt="" class="main-img hidden lg:block w-4/5" />
+      </section>
+    </main>
+
+    <footer class="footer px-2">
+      <p class="company-used mb-4 text-lg text-[#78797a] font-bold">
+        Used by these companies:
+      </p>
+      <div class="companies flex flex-wrap gap-4">
+        <img src="./Assets/Atlassian Icon.svg" alt="" />
+        <img src="./Assets/Behance Icon.svg" alt="" />
+        <img src="./Assets/Bing Icon.svg" alt="" />
+        <img src="./Assets/Bitbucket Icon.svg" alt="" />
+        <img src="./Assets/Dropbox Icon.svg" alt="" />
+        <img src="./Assets/Twitch Icon.svg" alt="" />
+        <img src="./Assets/Twitter Icon.svg" alt="" />
+      </div>
+    </footer>
+  </body>
+</html>
